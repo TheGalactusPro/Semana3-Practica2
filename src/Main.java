@@ -10,7 +10,7 @@ public class Main {
 
         p2.setNombre("Switch");
         p2.setCategoria("Consola");
-        p2.setStock(-96);
+        p2.setStock(96);
         p2.setPrecio(500);
 
         System.out.println("Producto 1");
